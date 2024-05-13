@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320722947457",
+    "project_id": "citoyenapp-1b58b",
+    "storage_bucket": "citoyenapp-1b58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320722947457:android:c611ae992fc360fd252c80",
+        "android_client_info": {
+          "package_name": "com.example.projetsession"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxEYgkdLVkpjzf0PC1E4f9jLJ0V4rM0DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
